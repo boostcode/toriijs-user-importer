@@ -1,0 +1,15 @@
+{
+  "name": "toriijs-user-batch-importer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "import.js",
+  "author": "Matteo Crippa",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "~1.4.29",
+    "mongoose": "~3.8.22",
+    "fast-csv": "~0.5.5",
+    "mongoose-rbac": "git://github.com/matteocrippa/mongoose-rbac",
+    "passport-local-mongoose": "~1.0.0"
+  }
+}
